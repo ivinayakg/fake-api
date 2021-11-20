@@ -1,25 +1,24 @@
 {
-  'contacts':[
+  "contacts": [
     {
-      'id':'1',
-      'name':'Raghav',
-      'contact':'delhi'
+      "id": "1",
+      "name": "Raghav",
+      "contact": "delhi"
     },
     {
-      'id':'2',
-      'name':'Satyam',
-      'contact':'dubai'
+      "id": "2",
+      "name": "Satyam",
+      "contact": "dubai"
     },
     {
-      'id':'3',
-      'name':'mayank',
-      'contact':'delhi'
+      "id": "3",
+      "name": "mayank",
+      "contact": "delhi"
     },
     {
-      'id':'4',
-      'name':'priyanshu',
-      'contact':'delhi'
-    },
+      "id": "4",
+      "name": "priyanshu",
+      "contact": "delhi"
+    }
   ]
 }
-
